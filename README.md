@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I believe that my software should let me:
+I believe that my software should:
 
-- 🐱‍💻 **change** it to fit my needs
-- 🛫 work **offline** 
-- 📦 have full **control** over my stuff
-- 🔌 **integrate** it with other software
+- 🐱‍💻 let me **change** it to fit my needs
+- 🛫 let me work **offline** 
+- 📦 give me **control** over my stuff
+- 🔌 **integrate** with other software
 
 Recently I've put most of my energy into the repos at [@local-first-web](/local-first-web):
 
